@@ -21,7 +21,7 @@ Berikut langkah-langkah untuk menginstal Quis PBWL:
 1. **Clone Repository:**
    - Clone repository ini ke dalam direktori lokal.
 
-     git clone https://github.com/Aryautama06/kuis.git
+     git clone https://github.com/Aryautama06/uas_pbwl.git
 
 2. **Konfigurasi Database:**
    - Buka file konfigurasi database di file .env  dan atur parameter koneksi database sesuai dengan informasi yang sesuai.
